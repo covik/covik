@@ -1,6 +1,21 @@
-# Mate Nakić
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mate-nakic)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/sudocovik)
+<table width="100%">
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/6125218?v=4" alt="Mate Nakić" width="150" />
+    </td>
+    <td>
+      <h1>Mate Nakić</h1>
+      <p>
+        <a href="https://www.linkedin.com/in/mate-nakic">
+          <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn" />
+        </a>
+        <a href="https://github.com/sudocovik">
+          <img src="https://img.shields.io/badge/GitHub-Profile-black" alt="GitHub" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## About Me
 Experienced web developer with a focus on full stack development (backend, frontend, and infrastructure). Passionate about understanding the entire development pipeline from commit to production. I prioritize thorough testing over minimal testing, though I occasionally go beyond and test aspects with marginal value.
