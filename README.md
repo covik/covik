@@ -47,8 +47,6 @@ A smart box that opens only for students and logs activity to a web app. This pr
 
 I was responsible for wiring components like a relay, NFC reader, and electronic lock to an ESP32 board. The chip firmware can be found [here](https://github.com/sudocovik/bachelors-thesis-firmware). The activity log application is a simple Laravel and Vue application deployed with Pulumi to a DigitalOcean managed Kubernetes cluster. The source code is available [here](https://github.com/sudocovik/bachelors-thesis-web).
 
-**//TODO:** Add a video showcase of the box features.
-
 ## Reading
 - ✅ Robert C. Martin: *Clean Code*
 - ✅ Kent Beck: *Test Driven Development*
