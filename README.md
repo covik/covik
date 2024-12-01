@@ -14,6 +14,12 @@
 - **Frontend:** React
 
 ## Projects
+
+### [system32](https://github.com/covik/system32)
+A central hub for all my infrastructure needs.  
+Hosts my Kubernetes cluster and manages DNS configurations for multiple domains.
+Utilizes Pulumi TypeScript for a declarative Infrastructure-as-Code approach.
+
 ### [Scrollar](https://github.com/covik/scrollar)
 A jQuery plugin for custom scrollbars, created for educational purposes.
 
