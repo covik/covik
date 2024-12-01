@@ -14,16 +14,16 @@
 - **Frontend:** React
 
 ## Projects
-### [Scrollar](https://github.com/sudocovik/scrollar)
+### [Scrollar](https://github.com/covik/scrollar)
 A jQuery plugin for custom scrollbars, created for educational purposes.
 
-### [NetSchool](https://github.com/sudocovik/netschool)
+### [NetSchool](https://github.com/covik/netschool)
 A Laravel application for exchanging materials between teachers and students. Developed as a final exam project in high school.
 
-### [Bachelor's Thesis](https://github.com/sudocovik/bachelors-thesis-document)
+### [Bachelor's Thesis](https://github.com/covik/bachelors-thesis-document)
 A smart box that opens only for students and logs activity to a web app. This project had practical applications at the faculty, such as allowing students to relax with a PlayStation in the faculty café while safeguarding property (e.g., controllers). If controllers went missing, the last user would be held responsible.
 
-I was responsible for wiring components like a relay, NFC reader, and electronic lock to an ESP32 board. The chip firmware can be found [here](https://github.com/sudocovik/bachelors-thesis-firmware). The activity log application is a simple Laravel and Vue application deployed with Pulumi to a DigitalOcean managed Kubernetes cluster. The source code is available [here](https://github.com/sudocovik/bachelors-thesis-web).
+I was responsible for wiring components like a relay, NFC reader, and electronic lock to an ESP32 board. The chip firmware can be found [here](https://github.com/covik/bachelors-thesis-firmware). The activity log application is a simple Laravel and Vue application deployed with Pulumi to a DigitalOcean managed Kubernetes cluster. The source code is available [here](https://github.com/covik/bachelors-thesis-web).
 
 ## Reading
 - ✅ Robert C. Martin: *Clean Code*
