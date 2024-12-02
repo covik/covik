@@ -17,8 +17,11 @@
 
 ### [system32](https://github.com/covik/system32)
 A central hub for all my infrastructure needs.  
-Hosts my Kubernetes cluster and manages DNS configurations for multiple domains.
-Utilizes Pulumi TypeScript for a declarative Infrastructure-as-Code approach.
+Hosts my Kubernetes cluster and deploys containerized applications.  
+Manages DNS configuration and SSL certificates for multiple domains.  
+Utilizes Pulumi TypeScript for a declarative Infrastructure-as-Code approach.  
+CI pipeline validates and deploys changes on push to main, runs previews for pull requests.  
+Codebase formatting and linting is enforced with Prettier and ESLint.
 
 ### [Scrollar](https://github.com/covik/scrollar)
 A jQuery plugin for custom scrollbars, created for educational purposes.
