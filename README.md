@@ -4,15 +4,6 @@
 - **Born:** 1998 in Zadar, Croatia
 - **Current City:** Zadar
 
-## Education
-- **High School:** Web Design at the Natural Sciences and Graphics School in Zadar, Croatia
-- **Bachelor's Degree:** Information Systems at the Faculty of Organization and Informatics in Varaždin, Croatia
-
-## Stack Preferences
-- **Infrastructure:** Kubernetes / Containers
-- **Backend:** PHP
-- **Frontend:** React
-
 ## Projects
 
 ### [system32](https://github.com/covik/system32)
@@ -51,3 +42,12 @@ No matter where you pause, there's always room for improvement.
 - Software Architecture
 - Google Cloud
 - Microservices and High Availability
+
+## Education
+- **High School:** Web Design at the Natural Sciences and Graphics School in Zadar, Croatia
+- **Bachelor's Degree:** Information Systems at the Faculty of Organization and Informatics in Varaždin, Croatia
+
+## Stack Preferences
+- **Infrastructure:** Kubernetes / Containers
+- **Backend:** PHP
+- **Frontend:** React
