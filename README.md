@@ -4,6 +4,12 @@
 - **Born:** 1998 in Zadar, Croatia
 - **Current City:** Zadar
 
+# About
+Software developer specialized for the web platform. Does development and infrastructure since day 1, a DevOps by its real definition.  
+Spent seven years (age 13-20) understanding fundamentals of developing web applications as a self-taught developer,
+shifted mindset several times about approaching and developing backend, frontend and infrastructure (sorted by what I enjoy the most).  
+Advocates for libraries over frameworks, wrote code with Laravel, Vue, React ❤️ and Pulumi ❤️.
+
 ## Strengths and Weaknesses
 - Adheres strictly to a single API style.
 - Highly detail-oriented with a focus on "pixel-perfect" UI; recognizes the risks of unsupervised UI development.
