@@ -14,6 +14,14 @@ Utilizes Pulumi TypeScript for a declarative Infrastructure-as-Code approach.
 CI pipeline validates and deploys changes on push to main, runs previews for pull requests.  
 Codebase formatting and linting is enforced with Prettier and ESLint.
 
+### [cinaries](https://github.com/covik/cinaries)
+Short for container image binaries.  
+When you build container images and pull other (public) software (mostly binaries, but not limited to them) using the `COPY` command,
+you are actually downloading a lot more bytes than you need.  
+The Cinaries project removes this problem.  
+You get faster builds, smaller bills, and we all enjoy a minimal carbon footprint.  
+The project is in its inception phase.
+
 ### [Bachelor's Thesis](https://github.com/covik/bachelors-thesis-document)
 A smart box that opens only for students and logs activity to a web app. This project had practical applications at the faculty, such as allowing students to relax with a PlayStation in the faculty café while safeguarding property (e.g., controllers). If controllers went missing, the last user would be held responsible.
 
