@@ -4,19 +4,19 @@
 - **Born:** 1998 in Zadar, Croatia
 - **Current City:** Zadar
 
-## Strengths and weaknesses
-- Sticks to one API style
-- Pixel perfect UI disorder - unsupervised UI development is dangerous.
-- Writes automated tests, trusts no one
-- Not immune to overengineering but disciplined in prevention
-- Smaller signed commits, frequent pushes - CI is cheaper than human labour
-- Thinks in low-level, writes in high-level
-- Mobile-first approach for UI design
-- Automated dependency updates, no one is left behind
-- Survived imposter syndrome twice
-- Prefers cloud-agnostic, standardized, portable, Kubernetes-native tools instead of proprietary cloud offerings (but I don't host production databases in Kubernetes)
-- Writes infrastructure which can be destroyed and recreated at any point in time
-- Prefers local/remote dev containers instead of polluting the host machine
+## Strengths and Weaknesses
+- Adheres strictly to a single API style.
+- Highly detail-oriented with a focus on "pixel-perfect" UI; recognizes the risks of unsupervised UI development.
+- Writes comprehensive automated tests and maintains a "trust but verify" philosophy.
+- Prone to overengineering but disciplined in avoiding it through self-regulation.
+- Employs smaller, signed commits and frequent pushes; values CI efficiency over manual labor.
+- Capable of low-level thinking but excels at implementing high-level abstractions.
+- Follows a mobile-first approach in UI design.
+- Ensures automated dependency updates, leaving no component outdated.
+- Successfully navigated imposter syndrome on two occasions.
+- Favors cloud-agnostic, standardized, portable, Kubernetes-native tools over proprietary cloud solutions (but avoids hosting production databases in Kubernetes).
+- Designs infrastructure to be ephemeral, supporting destruction and recreation at any time.
+- Advocates for local/remote development containers to avoid polluting host machines.
 
 ## Projects
 
