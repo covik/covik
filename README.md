@@ -34,6 +34,12 @@ A Laravel application for exchanging materials between teachers and students. De
 ### [Scrollar](https://github.com/covik/scrollar)
 A jQuery plugin for custom scrollbars, created for educational purposes.
 
+### [iStunt UCP](https://www.youtube.com/watch?v=AwNK_paHqwU)
+One of my very first web projects.  
+It clearly demonstrates that I learned the fundamentals before diving into the library and framework ecosystem.  
+I use it during job interviews to discuss what's wrong with the code.  
+No matter where you pause, there's always room for improvement.
+
 ## Reading
 - ✅ Robert C. Martin: *Clean Code*
 - ✅ Kent Beck: *Test Driven Development*
