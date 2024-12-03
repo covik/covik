@@ -17,6 +17,7 @@
 - Favors cloud-agnostic, standardized, portable, Kubernetes-native tools over proprietary cloud solutions (but avoids hosting production databases in Kubernetes).
 - Designs infrastructure to be ephemeral, supporting destruction and recreation at any time.
 - Advocates for local/remote development containers to avoid polluting host machines.
+- No direct experience in performance profiling, but eager to learn and develop these skills further.
 
 ## Projects
 
