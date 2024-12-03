@@ -4,6 +4,20 @@
 - **Born:** 1998 in Zadar, Croatia
 - **Current City:** Zadar
 
+## Strengths and weaknesses
+- Sticks to one API style
+- Pixel perfect UI disorder - unsupervised UI development is dangerous.
+- Writes automated tests, trusts no one
+- Not immune to overengineering but disciplined in prevention
+- Smaller signed commits, frequent pushes - CI is cheaper than human labour
+- Thinks in low-level, writes in high-level
+- Mobile-first approach for UI design
+- Automated dependency updates, no one is left behind
+- Survived imposter syndrome twice
+- Prefers cloud-agnostic, standardized, portable, Kubernetes-native tools instead of proprietary cloud offerings (but I don't host production databases in Kubernetes)
+- Writes infrastructure which can be destroyed and recreated at any point in time
+- Prefers local/remote dev containers instead of polluting the host machine
+
 ## Projects
 
 ### [system32](https://github.com/covik/system32)
