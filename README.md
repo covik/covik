@@ -4,11 +4,13 @@
 - **Born:** 1998 in Zadar, Croatia
 - **Current City:** Zadar
 
-# About
-Software developer specialized for the web platform. Does development and infrastructure since day 1, a DevOps by its real definition.  
-Spent seven years (age 13-20) understanding fundamentals of developing web applications as a self-taught developer,
-shifted mindset several times about approaching and developing backend, frontend and infrastructure (sorted by what I enjoy the most).  
-Advocates for libraries over frameworks, wrote code with Laravel, Vue, React ❤️ and Pulumi ❤️.
+## About
+
+Web-focused software developer with a strong foundation in both development and infrastructure—embodying the true definition of DevOps.
+
+Self-taught with seven years of experience (ages 13-20) in mastering the fundamentals of web application development. Experienced in shifting perspectives and methodologies across backend, frontend, and infrastructure, with a clear preference and passion for backend work.
+
+Advocates for the use of libraries over frameworks, and has hands-on experience with technologies such as Laravel, Vue, React ❤️, and Pulumi ❤️.
 
 ## Strengths and Weaknesses
 - Adheres strictly to a single API style.
