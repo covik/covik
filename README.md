@@ -1,10 +1,12 @@
-## Background
-- **Name:** Mate
-- **Surname:** Nakić
-- **Born:** 1998 in Zadar, Croatia
-- **Current City:** Zadar
-
-## About
+<div style="display: flex; align-items: center; gap: 15px;">
+  <img src="https://avatars.githubusercontent.com/u/6125218?v=4" alt="Profile Picture" style="width: 100px; height: 100px; border-radius: 50%;">
+  <div>
+    <div><strong>Name:</strong> Mate Nakić</div>
+    <div><strong>Role:</strong> Software Engineer</div>
+    <div><strong>Born:</strong> 1998 in Zadar, Croatia</div>
+    <div><strong>Current city:</strong> Zadar, Croatia</div>
+  </div>
+</div>
 
 Web-focused software developer with a strong foundation in both development and infrastructure—embodying the true definition of DevOps.
 
