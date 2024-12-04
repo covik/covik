@@ -71,6 +71,11 @@ It clearly demonstrates that I learned the fundamentals before diving into the l
 I use it during job interviews to discuss what's wrong with the code.  
 No matter where you pause, there's always room for improvement.
 
+> ⚠️ **Important** <br />
+> Projects written with Laravel and React are running in production.<br />
+> Features are behind login page with closed source codebases.<br />
+> Demo and codebase walkthrough are possible in job interviews only.
+
 ## Reading
 - ✅ Robert C. Martin: *Clean Code*
 - ✅ Kent Beck: *Test Driven Development*
