@@ -72,9 +72,9 @@ I use it during job interviews to discuss what's wrong with the code.
 No matter where you pause, there's always room for improvement.
 
 > ⚠️ **Important** <br />
-> Projects written with Laravel and React are running in production.<br />
-> Features are behind login page with closed source codebases.<br />
-> Demo and codebase walkthrough are possible in job interviews only.
+> Projects built with Laravel and React are currently running in production.<br />
+> Features are accessible only behind a login page, with the codebase being closed source.<br />
+> A demo and codebase walkthrough are available exclusively during job interviews.
 
 ## Reading
 - ✅ Robert C. Martin: *Clean Code*
