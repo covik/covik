@@ -28,6 +28,10 @@ Advocates for the use of libraries over frameworks, and has hands-on experience 
 - No direct experience in performance profiling, but eager to learn and develop these skills further.
 
 ## Projects
+> ⚠️ **Important** <br />
+> Projects built with Laravel and React are currently running in production.<br />
+> Features are accessible only behind a login page, with the codebase being closed source.<br />
+> A demo and codebase walkthrough are available exclusively during job interviews.
 
 ### [system32](https://github.com/covik/system32)
 A central hub for all my infrastructure needs.  
@@ -70,11 +74,6 @@ One of my very first web projects.
 It clearly demonstrates that I learned the fundamentals before diving into the library and framework ecosystem.  
 I use it during job interviews to discuss what's wrong with the code.  
 No matter where you pause, there's always room for improvement.
-
-> ⚠️ **Important** <br />
-> Projects built with Laravel and React are currently running in production.<br />
-> Features are accessible only behind a login page, with the codebase being closed source.<br />
-> A demo and codebase walkthrough are available exclusively during job interviews.
 
 ## Reading
 - ✅ Robert C. Martin: *Clean Code*
