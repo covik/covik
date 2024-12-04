@@ -18,6 +18,9 @@ Self-taught with seven years of experience (ages 13-20) in mastering the fundame
 
 Advocates for the use of libraries over frameworks, and has hands-on experience with technologies such as Laravel, Vue, React ❤️, and Pulumi ❤️.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mate-nakic)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/sudocovik)
+
 ## Strengths and Weaknesses
 - Adheres strictly to a single API style.
 - Highly detail-oriented with a focus on "pixel-perfect" UI; recognizes the risks of unsupervised UI development.
