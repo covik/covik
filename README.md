@@ -46,16 +46,13 @@ You get faster builds, smaller bills, and we all enjoy a minimal carbon footprin
 The project is in its inception phase.
 
 ### [palettar](https://github.com/covik/palettar)
-Utility library for generating border and text colors based on background color adhering to WCAG guidelines.  
-Supports JavaScript and TypeScript.
-To be used in CSS-in-JS solutions but not limited to it.
+Utility library for color accessibility
 
-The core package defines set of standards/contracts other packages abide to.
-Other packages are simply adapters for existing color manipulation libraries of the NPM ecosystem.  
-The goal here is to define an API style/standard and enable users to pick the color generator they want or already use,
-instead of forcing them to abide by my personal opinions.
+Palettar is a versatile library designed to generate border and text colors based on background colors in compliance with WCAG guidelines. It fully supports JavaScript and TypeScript and is tailored for CSS-in-JS solutions, though it is not limited to this use case.
 
-Serves as a personal playground for developing, maintaining and publishing a set of small libraries organized in a mono-repository.  
+The core package establishes a set of standards and contracts that other packages follow, providing adapters for popular color manipulation libraries within the NPM ecosystem. This approach enables users to select their preferred color generation tools rather than conforming to specific personal opinions.
+
+As a personal initiative, this project focuses on developing, maintaining, and publishing modular libraries organized efficiently in a mono-repository format. It emphasizes flexibility, accessibility, and adaptability for a wide range of developers.
 
 ### [Bachelor's Thesis](https://github.com/covik/bachelors-thesis-document)
 A smart box that opens only for students and logs activity to a web app. This project had practical applications at the faculty, such as allowing students to relax with a PlayStation in the faculty café while safeguarding property (e.g., controllers). If controllers went missing, the last user would be held responsible.
