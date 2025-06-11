@@ -93,7 +93,7 @@ No matter where you pause, there's always room for improvement.
 ## Want to Know More About
 - Event Sourcing and Event-Driven Applications
 - Software Architecture
-- Google Cloud
+- AWS
 - Microservices and High Availability
 
 ## Education
