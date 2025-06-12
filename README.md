@@ -84,6 +84,19 @@ It clearly demonstrates that I learned the fundamentals before diving into the l
 I use it during job interviews to discuss what's wrong with the code.  
 No matter where you pause, there's always room for improvement.
 
+
+## Professional Experience
+
+**Infrastructure Specialist**, Superius d.o.o. (Full-time)  
+_Feb 2025 – Present | Pula, Croatia (On-site)_
+
+**Full-stack Developer**, Zara Promet (Full-time)  
+_Mar 2021 – Feb 2025 | Zadar, Croatia (Hybrid)_
+
+**PHP Developer**, Eco Mobile d.o.o. (Full-time)  
+_Nov 2019 – Nov 2020 | Zagreb, Croatia (On-site)_
+
+
 ## Reading
 - ✅ Robert C. Martin: *Clean Code*
 - ✅ Kent Beck: *Test Driven Development*
