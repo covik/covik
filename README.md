@@ -84,6 +84,8 @@ It clearly demonstrates that I learned the fundamentals before diving into the l
 I use it during job interviews to discuss what's wrong with the code.  
 No matter where you pause, there's always room for improvement.
 
+<div style="page-break-after: always;"></div>
+
 ## Professional Experience
 
 **Infrastructure Specialist**, Superius d.o.o. (Full-time)  
