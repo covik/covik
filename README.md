@@ -84,7 +84,6 @@ It clearly demonstrates that I learned the fundamentals before diving into the l
 I use it during job interviews to discuss what's wrong with the code.  
 No matter where you pause, there's always room for improvement.
 
-
 ## Professional Experience
 
 **Infrastructure Specialist**, Superius d.o.o. (Full-time)  
@@ -96,6 +95,9 @@ _Mar 2021 – Feb 2025 | Zadar, Croatia (Hybrid)_
 **PHP Developer**, Eco Mobile d.o.o. (Full-time)  
 _Nov 2019 – Nov 2020 | Zagreb, Croatia (On-site)_
 
+## Education
+- **High School:** Web Design at the Natural Sciences and Graphics School in Zadar, Croatia
+- **Bachelor's Degree:** Information Systems at the Faculty of Organization and Informatics in Varaždin, Croatia
 
 ## Reading
 - ✅ Robert C. Martin: *Clean Code*
@@ -108,10 +110,6 @@ _Nov 2019 – Nov 2020 | Zagreb, Croatia (On-site)_
 - Software Architecture
 - AWS
 - Microservices and High Availability
-
-## Education
-- **High School:** Web Design at the Natural Sciences and Graphics School in Zadar, Croatia
-- **Bachelor's Degree:** Information Systems at the Faculty of Organization and Informatics in Varaždin, Croatia
 
 ## Stack Preferences
 - **Infrastructure:** Kubernetes / Containers
