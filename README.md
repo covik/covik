@@ -7,7 +7,7 @@
             <div><strong>Name:</strong> Mate Nakić</div>
             <div><strong>Role:</strong> Software Engineer</div>
             <div><strong>Born:</strong> 1998 in Zadar, Croatia</div>
-            <div><strong>Current city:</strong> Pula, Croatia</div>
+            <div><strong>Current city:</strong> Zadar, Croatia</div>
         </td>
     </tr>
 </table>
